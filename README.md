@@ -1,8 +1,6 @@
 - 👋😺 Hi, I’m Tamara
-- 🎶🎷 I love my cats and my husband, jazz music and travel
-- 🌊🌇 I live in the best city in the world, Barcelona, and work in future best advanced self-hosted product analytics OptiPrism 
-- 💎🧑‍💻 **I’m looking for** experienced **Rust developer** with passion for **Database** development (because our product is based on our own in-house OLAP Database)
-- 📫🐦 How to reach me [linkedin.com/in/tommybarce](https://www.linkedin.com/in/tommybarce/)  https://t.me/tommybarce Email: tamara.gavrilova@optiprism.io 
+- 🎶🎷 I love my cats and my husband, techno music, and travel
+- 🌊🌇 I am originally from St. Petersburg, Russia, but now I live in the best city in the world, Barcelona
 
 <!---
 tommybarce/tommybarce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
